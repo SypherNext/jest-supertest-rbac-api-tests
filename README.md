@@ -47,7 +47,7 @@ test.
 ## Prerequisites
 
 - Node.js 18 or later
-- A running copy of [`rbac-healthcare-system`](https://github.com/codedbyabhishekc/rbac-healthcare-system),
+- A running copy of [`rbac-healthcare-system`](https://github.com/SypherNext/rbac-healthcare-system),
   seeded with its sample data
 
 This works the same way on Windows, macOS, and Linux -- the commands below
@@ -59,7 +59,7 @@ zsh).
 **1. Clone and start the backend under test**, if you haven't already:
 
 ```bash
-git clone https://github.com/codedbyabhishekc/rbac-healthcare-system.git
+git clone https://github.com/SypherNext/rbac-healthcare-system.git
 cd rbac-healthcare-system/backend
 npm install
 mkdir database
